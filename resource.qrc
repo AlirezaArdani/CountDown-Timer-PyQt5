@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>assets/arrow-down-sign-to-navigate.png</file>
+  </qresource>
+</RCC>

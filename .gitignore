@@ -1,0 +1,21 @@
+# Documents and Build Artifacts
+*.pdf
+*.docx
+*.so
+
+# Python Virtual Environments
+#.virtualenv/
+env/
+
+# Python Cache
+__pycache__/
+.cache/
+
+# IDE and Editor Directories
+#.idea
+
+# A non-standard file/directory to ignore
+# Make sure this is intentional
+# .Python
+
+# --- Point to Review ---
